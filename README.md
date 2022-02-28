@@ -1,2 +1,2 @@
 # Aum_sud
-This is about trial project
+This is about new trial project
